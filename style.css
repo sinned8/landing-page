@@ -123,4 +123,44 @@ a , ul{
   color: #E5E7EB;
   display: flex;
   flex-direction: row;
+  margin: 50px;
+  padding: 50px;
+  border-radius: 6px;
+  gap: 500px;
+  
+}
+
+.buttoncontainer{
+  display: flex;
+  flex-direction: column;
+  margin-left: auto;
+}
+
+
+.bottombutton{
+  display: flex;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: #3882F6;
+  border-radius: 8px;
+  border-color: #E5E7EB;
+  font-weight: bold;
+  color: #E5E7EB;
+  align-items: center;
+
+}
+.CTAtitle{
+  font-size: 20px;
+  font-weight: bolder;
+  color: #E5E7EB;
+}
+.footer{
+  background-color: #1F2937;
+  display: flex;
+  color: #E5E7EB;
+  align-items: center;
+  justify-content: center;
+  padding: 50px;
 }
