@@ -78,6 +78,7 @@ a , ul{
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background-color: #E5E7EB;
 }
 .midtitle{
   text-align: center;
@@ -100,6 +101,7 @@ a , ul{
 }
 .text{
   margin-top: 10px;
+  
 }
 .quote{
   display: flex;
